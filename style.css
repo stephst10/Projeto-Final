@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    color: rgb(104, 29, 29);
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgb(177, 255, 229);
+}
+
+#capa {
+    text-align: center;
+    margin: 5px auto;
+    padding: 50px;
+    background: rgb(22, 173, 173);
+    border-radius: 5px;
+}
+
+#capa:hover {
+    cursor: pointer;
+    background-color: rgb(14, 133, 133);
+    box-shadow: 4px 4px;
+}
